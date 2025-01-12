@@ -2,42 +2,23 @@
 
 ## Cara Menjalankan
 1. Clone repositori ini:
-   '''bash'''
-
-2. Copy code
-   '''sh
-   git clone https://github.comMarlinaLubisWholesaleOrder_AutomationTesting.git
-   '''
-
-3. Masuk ke direktori proyek:
    ```sh
-    bash
+   git clone https://github.comMarlinaLubisWholesaleOrder_AutomationTesting.git
    ```
-
-4. Copy code
+2. Masuk ke direktori proyek:
    ```sh
    cd WholesaleOrder_AutomationTesting
    ```
-
-5. Instal semua dependensi:
-
-   ```sh
-   bash
-   ```
-   Copy code
+3. Instal semua dependensi:
    ```sh
    npm install 
    ``` 
-6. Menjalankan Pengujian
+4. Menjalankan Pengujian
    Untuk menjalankan Cypress Test Runner:
-   ```sh
-   bash
-   ```
-   Copy code
    ```sh
    npm cypress open  
    ```
-7. Untuk menjalankan pengujian di terminal (headless mode):
+5. Untuk menjalankan pengujian di terminal (headless mode):
    ```sh
-   npx cypress run
+   npm cypress run
    ```
