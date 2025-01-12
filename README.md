@@ -1,1 +1,1 @@
-# PrivateOrder_AutomationTesting
+# WholesaleOrder_AutomationTesting
